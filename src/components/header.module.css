@@ -1,0 +1,10 @@
+.header {
+  background-color: yellow;
+  text-align: center;
+  font-weight: bolder;
+  height: 70px;
+  padding-bottom: 10px;
+  font-size: 2em;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+/* now to give the styling the entire body of our app we should use the app.css in the source foldeer to add some css int the app.jsx */
